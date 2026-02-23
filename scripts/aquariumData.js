@@ -63,7 +63,119 @@ export const database = {
             location: "Indo-Pacific Ocean",
             diet: "Omnivore",
             image: "https://pet-health-content-media.chewy.com/wp-content/uploads/2025/04/16202119/202503202406saltwater-fish-yellow-boxfish.jpg"
-        }
+        },
+        {
+    name: "Bruce",
+    species: "Great White Shark",
+    length: 500,                      // divisible by 5
+    location: "Atlantic Ocean",
+    diet: "Carnivore",
+    image: "https://example.com/images/bruce.jpg"
+  },
+  {
+    name: "Pearl",
+    species: "Flapjack Octopus",
+    length: 6,                        // divisible by 3
+    location: "Pacific Ocean",
+    diet: "Carnivore",
+    image: "https://example.com/images/pearl.jpg"
+  },
+  {
+    name: "Gill",
+    species: "Moorish Idol",
+    length: 20,                       // divisible by 5
+    location: "Indian Ocean",
+    diet: "Herbivore",
+    image: "https://example.com/images/gill.jpg"
+  },
+  {
+    name: "Bubbles",
+    species: "Yellow Tang",
+    length: 15,                       // divisible by 3 and 5
+    location: "Hawaii",
+    diet: "Herbivore",
+    image: "https://example.com/images/bubbles.jpg"
+  },
+  {
+    name: "Anchor",
+    species: "Hammerhead Shark",
+    length: 300,                      // divisible by 3
+    location: "Tropical Oceans",
+    diet: "Carnivore",
+    image: "https://example.com/images/anchor.jpg"
+  },
+  {
+    name: "Deb",
+    species: "Damselfish",
+    length: 10,                       // divisible by 5
+    location: "Caribbean Sea",
+    diet: "Omnivore",
+    image: "https://example.com/images/deb.jpg"
+  },
+  {
+    name: "Bloat",
+    species: "Porcupine Puffer",
+    length: 9,                        // divisible by 3
+    location: "Red Sea",
+    diet: "Carnivore",
+    image: "https://example.com/images/bloat.jpg"
+  },
+  {
+    name: "Jacques",
+    species: "Cleaner Shrimp",
+    length: 5,                        // divisible by 5
+    location: "Indo-Pacific",
+    diet: "Omnivore",
+    image: "https://example.com/images/jacques.jpg"
+  },
+  {
+    name: "Gurgle",
+    species: "Royal Gramma",
+    length: 12,                       // divisible by 3
+    location: "Caribbean Sea",
+    diet: "Carnivore",
+    image: "https://example.com/images/gurgle.jpg"
+  },
+  {
+    name: "Marlin",
+    species: "Clownfish",
+    length: 25,                       // divisible by 5
+    location: "Great Barrier Reef",
+    diet: "Omnivore",
+    image: "https://example.com/images/marlin.jpg"
+  },
+  {
+    name: "Crush",
+    species: "Green Sea Turtle",
+    length: 90,                       // divisible by 3 and 5
+    location: "Pacific Ocean",
+    diet: "Herbivore",
+    image: "https://example.com/images/crush.jpg"
+  },
+  {
+    name: "Peach",
+    species: "Starfish",
+    length: 18,                       // divisible by 3
+    location: "Atlantic Ocean",
+    diet: "Carnivore",
+    image: "https://example.com/images/peach.jpg"
+  },
+  {
+    name: "Destiny",
+    species: "Whale Shark",
+    length: 1000,                     // divisible by 5
+    location: "Gulf of Mexico",
+    diet: "Filter Feeder",
+    image: "https://example.com/images/destiny.jpg"
+  },
+  {
+    name: "Hank",
+    species: "Septopus",
+    length: 21,                       // divisible by 3
+    location: "Monterey Bay",
+    diet: "Carnivore",
+    image: "https://example.com/images/hank.jpg"
+  }
     ],
 
     tips: [
